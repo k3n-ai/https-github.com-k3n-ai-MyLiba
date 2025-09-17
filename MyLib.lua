@@ -1,1 +1,3 @@
-print("🔥 MyLiba Test Loaded!")
+return function()
+    print("MyLib loaded thành công!")
+end
